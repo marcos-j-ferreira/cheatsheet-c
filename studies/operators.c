@@ -33,4 +33,5 @@ int main (void){
 
     printf("decremento: %d\n", b);
 
+    return 0;
 }

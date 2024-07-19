@@ -1,0 +1,6 @@
+// comment simple
+
+/*
+comment multiplo
+
+*/
